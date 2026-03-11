@@ -1,0 +1,10 @@
+transformers
+torch
+tf-keras
+SpeechRecognition
+PyAudio
+tensorflow
+tensorflow-hub
+numpy
+Pillow
+matplotlib
